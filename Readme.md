@@ -39,6 +39,8 @@ docker run -e ARRAYSIZE=100000000 soerenmetje/stream
 export ARRAYSIZE=100000000 && /bin/sh stream.sh
 ```
 
+## License
+For STREAM source code, the original license [LICENSE.txt](src/LICENSE.txt) applies that was provided by the original STREAM authors.
 
 ## Sources
 - https://www.cs.virginia.edu/stream/
